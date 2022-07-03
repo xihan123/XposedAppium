@@ -5,5 +5,5 @@ dependencies {
     //compileOnly 'com.virjar:ratel-api:1.3.3'
     compileOnly 'com.google.android:android:4.1.1.4'
     //防止依赖传递
-    implementation 'com.alibaba:fastjson:1.1.68.android'
+    implementation "com.alibaba.fastjson2:fastjson2:2.0.8.android"
 }
